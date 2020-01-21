@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae1ea158-1f34-4af5-adca-e4aeeb094458" name="Default Changelist" comment="" />
+    <list default="true" id="7445e3b7-3f27-4389-8c2e-27ad88f92510" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -21,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1WePxd6wH7YyvN62pl9U2peuqkn" />
+  <component name="ProjectId" id="1WgkCkmimM9tzv7XoGmlimPVqDt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,14 +36,14 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
   <component name="RunManager">
-    <configuration name="ArrayListExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="ArrayListExample" />
+    <configuration name="ListOfKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ListOfExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ArrayListExampleKt" />
+      <option name="MAIN_CLASS_NAME" value="ListOfKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -52,7 +51,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ArrayListExampleKt" />
+        <item itemvalue="Kotlin.ListOfKt" />
       </list>
     </recent_temporary>
   </component>
@@ -73,34 +72,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ae1ea158-1f34-4af5-adca-e4aeeb094458" name="Default Changelist" comment="" />
-      <created>1579507334881</created>
+      <changelist id="7445e3b7-3f27-4389-8c2e-27ad88f92510" name="Default Changelist" comment="" />
+      <created>1579578499942</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1579507334881</updated>
+      <updated>1579578499942</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1579578501992">
+    <state x="452" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579578524641">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579578501992" />
-    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1579578501991">
+    <state x="452" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1579578524641" />
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1579580125078">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579578501991" />
-    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1579578501991">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579580125078" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1579580125078">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579578501991" />
-    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1579578501992">
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579580125078" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1579580125077">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579578501992" />
-    <state x="65" y="89" key="new project wizard" timestamp="1579578499776">
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579580125077" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1579580125078">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="65" y="89" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1579578499776" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579580125078" />
   </component>
 </project>
